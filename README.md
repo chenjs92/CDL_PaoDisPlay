@@ -19,3 +19,4 @@ for (int i=0; i<50; i++) {
 paoView.speed = 0.1;
 paoView.sourcesList = sourceList;
 
+![image](https://github.com/TinyQ/TQMultistageTableView/blob/master/READMEIMAGE/TQTableView.gif)
